@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/kennguyen/Desktop/bit-academy/Random/Remix_test/remix_moviedb/app/routes/parent.other.tsx?browser", "../../../app/routes/parent.other.tsx"],
+  "sourcesContent": ["export { default } from \"/Users/kennguyen/Desktop/bit-academy/Random/Remix_test/remix_moviedb/app/routes/parent.other.tsx\";", "export default function Other() {\n  return <div>I am OTHER</div>;\n}\n"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAAe,iBAAiB;AAC9B,SAAO,oCAAC,OAAD,MAAK;AAAA;",
+  "names": []
+}

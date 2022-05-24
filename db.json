@@ -1,0 +1,28 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "name": "Julian",
+      "message": "Dit is een test comment",
+      "filmId": "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+    },
+    {
+      "id": 2,
+      "name": "Esme",
+      "message": "<3",
+      "filmId": "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+    },
+    {
+      "name": "Julian Nooij",
+      "message": "My neighbor isnt totoro",
+      "filmId": "58611129-2dbc-4a81-a72f-77ddfc1b1b49",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "message": "test\r\n",
+      "filmId": "2baf70d1-42bb-4437-b551-e5fed5a87abe",
+      "id": 4
+    }
+  ]
+}

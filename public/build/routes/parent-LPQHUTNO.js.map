@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/kennguyen/Desktop/bit-academy/Random/Remix_test/remix_moviedb/app/routes/parent.tsx?browser", "../../../app/routes/parent.tsx"],
+  "sourcesContent": ["export { default } from \"/Users/kennguyen/Desktop/bit-academy/Random/Remix_test/remix_moviedb/app/routes/parent.tsx\";", "import { Outlet } from 'remix';\n\nexport default function Parent() {\n  return (\n    <div className=\"p-10\">\n      <Outlet />\n    </div>\n  );\n}\n"],
+  "mappings": ";;;;;;;;;;AAAA;;;ACAA;AAEe,kBAAkB;AAC/B,SACE,oCAAC,OAAD;AAAA,IAAK,WAAU;AAAA,KACb,oCAAC,gCAAD;AAAA;",
+  "names": []
+}

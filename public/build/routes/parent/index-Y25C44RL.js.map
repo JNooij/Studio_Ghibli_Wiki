@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/kennguyen/Desktop/bit-academy/Random/Remix_test/remix_moviedb/app/routes/parent/index.tsx?browser", "../../../../app/routes/parent/index.tsx"],
+  "sourcesContent": ["export { default } from \"/Users/kennguyen/Desktop/bit-academy/Random/Remix_test/remix_moviedb/app/routes/parent/index.tsx\";", "export default function ParentIndx() {\n  return <div>I am parent</div>;\n}\n"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAAe,sBAAsB;AACnC,SAAO,oCAAC,OAAD,MAAK;AAAA;",
+  "names": []
+}

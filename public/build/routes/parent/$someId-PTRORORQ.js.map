@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/kennguyen/Desktop/bit-academy/Random/Remix_test/remix_moviedb/app/routes/parent/$someId.tsx?browser", "../../../../app/routes/parent/$someId.tsx"],
+  "sourcesContent": ["export { default } from \"/Users/kennguyen/Desktop/bit-academy/Random/Remix_test/remix_moviedb/app/routes/parent/$someId.tsx\";", "import { useParams } from 'remix';\n\nexport default function DynamicChild() {\n  const { someId } = useParams();\n  return <div>I am dynamic {someId}</div>;\n}\n"],
+  "mappings": ";;;;;;;;;;AAAA;;;ACAA;AAEe,wBAAwB;AACrC,QAAM,EAAE,WAAW;AACnB,SAAO,oCAAC,OAAD,MAAK,iBAAc;AAAA;",
+  "names": []
+}

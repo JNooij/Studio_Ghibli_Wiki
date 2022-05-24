@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/kennguyen/Desktop/bit-academy/Random/Remix_test/remix_moviedb/app/routes/index.tsx?browser", "../../../app/routes/index.tsx"],
+  "sourcesContent": ["export * from \"/Users/kennguyen/Desktop/bit-academy/Random/Remix_test/remix_moviedb/app/routes/index.tsx\";", "import { LoaderFunction, redirect } from 'remix';\n\nexport const loader: LoaderFunction = async () => {\n  return redirect('/films');\n};\n"],
+  "mappings": ";;;;;;;;;AAAA;;;ACAA;AAEO,IAAM,SAAyB,YAAY;AAChD,SAAO,oCAAS;AAAA;",
+  "names": []
+}

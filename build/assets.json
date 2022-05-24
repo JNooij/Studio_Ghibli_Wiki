@@ -1,0 +1,52 @@
+{
+  "version": "bf849768",
+  "entry": {
+    "module": "/build/entry.client-KB5WC7ME.js",
+    "imports": [
+      "/build/_shared/chunk-QKLFCQ7Y.js"
+    ]
+  },
+  "routes": {
+    "root": {
+      "id": "root",
+      "path": "",
+      "module": "/build/root-M2CQQCR3.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": true
+    },
+    "routes/films/$filmId": {
+      "id": "routes/films/$filmId",
+      "parentId": "root",
+      "path": "films/:filmId",
+      "module": "/build/routes/films/$filmId-RQHJDGWU.js",
+      "hasAction": true,
+      "hasLoader": true,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
+    "routes/films/$filmId/characters.$characterId": {
+      "id": "routes/films/$filmId/characters.$characterId",
+      "parentId": "routes/films/$filmId",
+      "path": "characters/:characterId",
+      "module": "/build/routes/films/$filmId/characters.$characterId-4PRP7J4F.js",
+      "hasAction": false,
+      "hasLoader": true,
+      "hasCatchBoundary": true,
+      "hasErrorBoundary": true
+    },
+    "routes/films/index": {
+      "id": "routes/films/index",
+      "parentId": "root",
+      "path": "films",
+      "index": true,
+      "module": "/build/routes/films/index-EALP4KVN.js",
+      "hasAction": false,
+      "hasLoader": true,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    }
+  },
+  "url": "/build/manifest-BF849768.js"
+}
